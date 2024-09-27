@@ -17,13 +17,13 @@ import 'firebase/compat/auth';
 
 // Use this when Quota finishes
 const firebaseConfig = {
-  apiKey: 'AIzaSyBlP9RbXhQ63T2_cYTMZJ6h3H5FqizTM1E',
-  authDomain: 'riads-c3aa0.firebaseapp.com',
-  projectId: 'riads-c3aa0',
-  storageBucket: 'riads-c3aa0.appspot.com',
-  messagingSenderId: '169688549089',
-  appId: '1:169688549089:web:ecce98e17c9544fd5419a0',
-  measurementId: 'G-HCHYS24QBX',
+  apiKey: '',
+  authDomain: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
+  measurementId: '',
 };
 
 const app = firebase.initializeApp(firebaseConfig);
